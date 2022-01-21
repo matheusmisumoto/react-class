@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 22px;
+}
+
+h1, h2 {
+    margin-top: 2rem;
+}
+
+.teste {
+    color: red;
+}
+
+.example-container {
+    border-color: 1px solid #999;
+    background-color: #EFEFEF;
+    padding: 2rem;
+    margin: 2rem;
+}
